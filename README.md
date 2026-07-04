@@ -10,6 +10,10 @@ AI generated asset for Blue System's japanese word processor machine.
 
 このままだと試作はいいけど使いものにならないのでちゃんとあとで作り直して実機にリスペクトしたデザインにします。アセットの仕様も現代的にします。
 
+## 著作権は大丈夫なの？
+
+流用しているのはアイディアやモチーフなので権利侵害になる恐れは低いと判断しています。試しにプロンプトでI2I(Image to Image)で実機カタログ画像を指定しても類似性はなく同じにならないですが。
+
 ## Blue System って何のことですか？
 ナントカSYS → 反転すると αωSYS → αωをひらがなにすると青→ 英語にすると Blue なので、Blue System ってことです。まだ正式名称ではありません。
 
@@ -17,8 +21,6 @@ AI generated asset for Blue System's japanese word processor machine.
 
 同志はともかく身内や同胞は敵ですから。
 ンロト信者は心底うざいので相手にしたくないのです。
-
-
 
 ## Windows版は作るの？
 
