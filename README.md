@@ -18,5 +18,9 @@ AI generated asset for Blue System's japanese word processor machine.
 同志はともかく身内や同胞は敵ですから。
 ンロト信者は心底うざいので相手にしたくないのです。
 
+## Windows版は作るの？
+
+試作版では作ることがありますが公式サポートはLinux版(場合により)のみです。Ubuntuコンテナは作ってもWindows版は作りません。
+
 ## で、今度こそ完成するの？
 時が満ちるまで放っておきましょう。
